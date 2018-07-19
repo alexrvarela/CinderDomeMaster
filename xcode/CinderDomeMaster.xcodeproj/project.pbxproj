@@ -20,6 +20,7 @@
 		8D11072F0486CEB800E47090 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */; };
 		D44DB88FA3104C42BCF40E60 /* CinderApp.icns in Resources */ = {isa = PBXBuildFile; fileRef = 6A14C66B464C472CBE79076E /* CinderApp.icns */; };
 		F659B98E5F024701A73B7A40 /* CinderDomeMasterApp.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4746CC37E93D42E18C7BAF0E /* CinderDomeMasterApp.cpp */; };
+		FA3A2F4C2100E9EF00924396 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = FA3A2F4B2100E9EF00924396 /* README.md */; };
 		FA54F43A20FEA3850078F404 /* checker.png in Resources */ = {isa = PBXBuildFile; fileRef = FA54F43920FEA3850078F404 /* checker.png */; };
 		FA8A9C6B20FCFB9300192F67 /* bottom.obj in Resources */ = {isa = PBXBuildFile; fileRef = FA8A9C6420FCFB9300192F67 /* bottom.obj */; };
 		FA8A9C6C20FCFB9300192F67 /* back.obj in Resources */ = {isa = PBXBuildFile; fileRef = FA8A9C6520FCFB9300192F67 /* back.obj */; };
@@ -50,6 +51,7 @@
 		8D1107320486CEB800E47090 /* CinderDomeMaster.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CinderDomeMaster.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8F3A5361032A472DA359A126 /* Resources.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = Resources.h; path = ../include/Resources.h; sourceTree = "<group>"; };
 		C348A8777A964753A77D0E16 /* CinderDomeMaster_Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = "\"\""; path = CinderDomeMaster_Prefix.pch; sourceTree = "<group>"; };
+		FA3A2F4B2100E9EF00924396 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		FA54F43920FEA3850078F404 /* checker.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = checker.png; path = ../resources/checker.png; sourceTree = "<group>"; };
 		FA8A9C6420FCFB9300192F67 /* bottom.obj */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = bottom.obj; sourceTree = "<group>"; };
 		FA8A9C6520FCFB9300192F67 /* back.obj */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = back.obj; sourceTree = "<group>"; };
@@ -135,6 +137,7 @@
 		29B97314FDCFA39411CA2CEA /* CinderDomeMaster */ = {
 			isa = PBXGroup;
 			children = (
+				FA3A2F4B2100E9EF00924396 /* README.md */,
 				01B97315FEAEA392516A2CEA /* Blocks */,
 				29B97315FDCFA39411CA2CEA /* Headers */,
 				080E96DDFE201D6D7F000001 /* Source */,
@@ -244,6 +247,7 @@
 			files = (
 				FA8A9C6D20FCFB9300192F67 /* right.obj in Resources */,
 				FA54F43A20FEA3850078F404 /* checker.png in Resources */,
+				FA3A2F4C2100E9EF00924396 /* README.md in Resources */,
 				FA8A9C7020FCFB9300192F67 /* left.obj in Resources */,
 				FA8A9C6C20FCFB9300192F67 /* back.obj in Resources */,
 				FA8A9C6B20FCFB9300192F67 /* bottom.obj in Resources */,
